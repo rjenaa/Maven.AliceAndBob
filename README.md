@@ -30,5 +30,3 @@
 2. Create conditional to check against Alice and Bob
 3. Print greeting to screen if Alice or Bob are true
 
-### Whats Next?
-* The next lab is located [here](https://github.com/Zipcoder/ZCW-MicroLabs-OOP-TooLargeTooSmall).
