@@ -30,3 +30,6 @@
 2. Create conditional to check against Alice and Bob
 3. Print greeting to screen if Alice or Bob are true
 
+
+## What's next?
+* The next lab can be founds [here](https://github.com/Zipcoder/ZCW-MicroLabs-JavaFundamentals-TooLargeTooSmall).
