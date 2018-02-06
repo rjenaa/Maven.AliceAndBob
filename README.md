@@ -32,4 +32,4 @@
 
 
 ## What's next?
-* The next lab can be founds [here](https://github.com/Zipcoder/ZCW-MicroLabs-JavaFundamentals-TooLargeTooSmall).
+* The next lab can be founds [here](https://github.com/Zipcoder/ZCW-MicroLabs-JavaFundamentals-SumOfInput).
