@@ -8,18 +8,22 @@
 
 ## Alice and Bob Greeting
 
-### Topics
-* object instantation/declaration
-* method invokation
-* operators
-* user input
 
-
-
-### Overview
+### **Objective:**
 * Write a program which prompts the user to input his/her name.
 * The program should greet users whose names are 'Alice' and 'Bob'.
 
+
+### **Purpose:**
+* To establish familiarity with
+    * Control Flow
+    * Conditionals
+    * User input
+    * Object instantation/declaration
+    * Method invokation
+
+### **Resources:**
+* [Fundamental Programming Structures](https://zipcoder.github.io/reveal-slides/fundament-programing-stuctures.html#/)
 
 ### Unit Test
 * No Unit Test
